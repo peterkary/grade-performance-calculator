@@ -8,6 +8,7 @@ George Smith 7 5 5
 William Shadley 8 6 7
 John Cena 4 3 5
 ```
+- Each person can have up to 3 grades
 - Run Program
 - **Choose** the txt file you created, then **calculate** grade performance
 - **Download** the results
